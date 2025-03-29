@@ -1,18 +1,18 @@
-# PROYECTO 1 MODULO 2- PLANIFICADOR DE VIAJES
-El presente repositorio contiene el proyecto 1 del Módulo "Lógica y algoritmos" del master en Frontend
+# PROYECTO 1 MODULO 2- GESTIÓN DE LISTA
+El presente repositorio contiene el proyecto 2 del Módulo "Lógica y algoritmos" del master en Frontend
 
 ## Objetivos de aprendizaje
-- Aplicar conceptos básicos de JavaScript, y luego aplicar las nuevas características de ECMAScript
+- Aplicar conceptos básicos de cómo usar Estructuras de datos sencillas como arreglos y objetos 
 
 ## Lo aprendido
-- Use const en lugar de var, en los datos compuestos como arrays y objetos pues son variables que no van a cambiar, es decir, aunque entre y salgan valores, no dejaran de ser un array y/o objeto
-- Use let cuando las variables si podian cambiar 
-- Las funciones normales las cambie a arrow functions aunque aun creo que quedaron muy largas y podrian reducirse más
+- Este ejercicio no se me hizo tan complicado como los otros :D
+- Para eliminar, al principio trate de usar pop, pero eliminaba el ultimo elemento y no el que buscaba
+- Aún tengo que practicar las arrow functions, me quede acostumbrada a las funciones normales
 
 
 
 ### Código 
 ![Texto alternativo](https://i.imgur.com/hK7sgRq.png)
 
-
-![Texto alternativo](https://i.imgur.com/hK7sgRq.png)
+### Código con las funciones originales antes de pasarlas a arrow
+![Texto alternativo](https://i.imgur.com/dsXXqJK.png)
