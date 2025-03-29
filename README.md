@@ -1,4 +1,4 @@
-# PROYECTO 1 MODULO 2- GESTIÓN DE LISTA
+# PROYECTO 2 MODULO 2- GESTIÓN DE LISTA
 El presente repositorio contiene el proyecto 2 del Módulo "Lógica y algoritmos" del master en Frontend
 
 ## Objetivos de aprendizaje
@@ -16,3 +16,4 @@ El presente repositorio contiene el proyecto 2 del Módulo "Lógica y algoritmos
 
 ### Código con las funciones originales antes de pasarlas a arrow
 ![Texto alternativo](https://i.imgur.com/dsXXqJK.png)
+
